@@ -1,0 +1,4 @@
+#Mon Sep 02 05:54:43 KRAT 2019
+base.0=C\:\\Users\\Dicky Adhadyanto\\AndroidStudioProjects\\IndoTrucker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
