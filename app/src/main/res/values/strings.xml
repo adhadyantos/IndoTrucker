@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">IndoTrucker</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_accoun">CREATE ACCOUNT</string>
+    <string name="create_account">create_account</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_users">All Users</string>
+    <string name="createaccount">CREATE ACCOUNT</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="login">LOGIN</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="welcome_to_indo_trucker">Welcome to Indo Trucker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_m_using_indo_trucker_app">Hi there, I\'m using Indo Trucker app</string>
+    <string name="display_name">Display Name</string>
+    <string name="name">Name</string>
+    <string name="user_single_name">Display Name</string>
+    <string name="user_default_status">User default status</string>
+    <string name="profile_display_name">Display Name</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="indo_trucker">INDO TRUCKER</string>
+    <string name="chat_name">Display Name</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="name_text_layout">Display Name</string>
+    <string name="message_text">Message Text</string>
+    <string name="_00_00">00:00</string>
+    <string name="string_upload_item">Upload Item</string>
+    <string name="upload_item">Upload Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="muatan">Muatan</string>
+    <string name="dari">Dari</string>
+    <string name="ke_tujuan">Ke Tujuan</string>
+    <string name="alamat">Alamat</string>
+    <string name="your_location">Your Location</string>
+</resources>

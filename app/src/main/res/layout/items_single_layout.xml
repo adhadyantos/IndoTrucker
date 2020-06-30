@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/relative_layout_backgroud"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="10dp">
+
+    <TextView
+        android:id="@+id/item_single_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/item_name"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ItemLoad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Payload" />
+
+    <TextView
+        android:id="@+id/ItemDestination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ItemLoad"
+        android:layout_alignStart="@+id/ItemLoad"
+        android:layout_marginTop="5dp"
+        android:text="Destination" />
+
+    <TextView
+        android:id="@+id/ItemAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ItemDestination"
+        android:layout_alignStart="@+id/ItemDestination"
+        android:layout_marginTop="5dp"
+        android:text="Address" />
+
+    <TextView
+        android:id="@+id/item_single_load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/item_single_from"
+        android:layout_alignTop="@+id/ItemLoad"
+        android:layout_toRightOf="@+id/ItemLoad"
+        android:text="@string/muatan" />
+
+    <TextView
+        android:id="@+id/item_single_from"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_single_load"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/ItemDestination"
+        android:text="@string/dari" />
+
+    <TextView
+        android:id="@+id/item_single_to"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/item_single_from"
+        android:layout_marginLeft="6dp"
+        android:layout_toRightOf="@+id/item_single_from"
+        android:text="@string/ke_tujuan" />
+
+    <TextView
+        android:id="@+id/item_single_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_single_from"
+        android:layout_alignLeft="@+id/item_single_from"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/ItemAddress"
+        android:text="@string/alamat" />
+</RelativeLayout>

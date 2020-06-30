@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569911476232",
+    "firebase_url": "https://indotrucker-ab41e.firebaseio.com",
+    "project_id": "indotrucker-ab41e",
+    "storage_bucket": "indotrucker-ab41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569911476232:android:baa6409ada9ebd53",
+        "android_client_info": {
+          "package_name": "com.example.indotrucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569911476232-2v6aahvpr9vv7c3lp7cqmqogpfpeha5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indotrucker",
+            "certificate_hash": "b47fedcc326ccf36b6e20121689089d02ba014e4"
+          }
+        },
+        {
+          "client_id": "569911476232-9d69ob63kl41tcnd7l1g2hs67j8i535o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6-lNFlncVHlrIK5xmp0Mo-M5QRlq0QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569911476232-9d69ob63kl41tcnd7l1g2hs67j8i535o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
